@@ -1,0 +1,9 @@
+models
+models1
+new_models
+venv
+.idea
+.ipynb_checkpoints
+features.p
+tokenizer.p
+descriptions.txt
